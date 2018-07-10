@@ -1,6 +1,6 @@
 # Form Validate
 this is form validatetion with Jquery,ajax and php native
-i make this as an application of learning ajax 
+i make this as an  application to using ajax
 
 Ingredients:
 HTML 
